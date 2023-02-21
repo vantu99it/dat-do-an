@@ -637,6 +637,9 @@ li {
   margin-top: 94px;
   margin-bottom: 48px;
 }
+.footer-logo img {
+  width: 160px;
+}
 #footer p a {
   font-weight: 400;
   font-size: 16px;
