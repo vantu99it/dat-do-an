@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'MS Mincho';
+    src: url('MS-Mincho.eot');
+    src: url('MS-Mincho.eot?#iefix') format('embedded-opentype'),
+        url('MS-Mincho.woff2') format('woff2'),
+        url('MS-Mincho.woff') format('woff'),
+        url('MS-Mincho.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
